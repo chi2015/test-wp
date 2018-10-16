@@ -1,0 +1,34 @@
+{
+  "name": "users-crud-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-core": "6.26.0",
+    "babel-loader": "^6.2.0",
+    "babel-plugin-add-module-exports": "^0.1.2",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-plugin-transform-class-properties": "^6.3.13",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "css-loader": "^1.0.0",
+    "postcss-loader": "^3.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "redux": "^4.0.1",
+    "react-redux": "^5.0.7",
+    "style-loader": "^0.23.1",
+    "antd": "3.10.1",
+    "webpack": "^1.12.9",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "url-loader": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chi2015",
+  "license": "ISC"
+}
